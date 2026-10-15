@@ -2,6 +2,8 @@
 
 Pembuat stiker dari teks, satu file HTML tanpa dependensi. Buka `index.html` di browser.
 
+Demo: https://generatorstikerteks.vercel.app/
+
 ## Fitur
 
 - Perataan teks: rata kanan-kiri, kiri, atau tengah
